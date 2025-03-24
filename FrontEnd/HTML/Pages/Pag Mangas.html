@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pagina Mangas</title>
+
+    <!-- Inicio Bootstrap -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <!-- Termino Bootstrap -->
+    <link rel="stylesheet" href="/FrontEnd/CSS/EstilosPages.css"><!-- Llamar Style deseado -->
+    <link rel="website icon" type="png" href="/FrontEnd/Images/LogoMangaMania.png"> <!-- Llamar el logo de la pagina -->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.min.js"></script>
+    <script src="/FrontEnd/JavaScript/myAPIResena.js"></script>
+    <script src="/FrontEnd/JavaScript/myAPIAutor.js"></script>
+    <script src="/FrontEnd/JavaScript/myAPIManga.js"></script>
+</head>
+<body> <!-- Cuerpo del codigo -->
+    <header> <!-- Cabeza del codigo -->
+        <div class="contenedor">
+            <img class="logo" src="/FrontEnd/Images/LogoMangaMania.png" alt="LogoMangaMania">
+        <h1> MangaMania || Mangas </h1>
+        </div>
+    </header>
+
+    <main> <!-- Codigo principal o central -->
+        <nav class="navbar bg-body-tertiary">
+            <div class="container">
+                <a class="navbar-brand" href="javascript:history.back()" > <i class="bi bi-skip-backward"></i> Regresar </a>
+                <a class="navbar-brand" href="/FrontEnd/index.html"><i class="bi bi-house-fill"></i> Inicio</a>
+                <a class="navbar-brand" href="/FrontEnd/HTML/Pages/Pag Mangas.html"><i class="bi bi-book"></i> Mangas</a>
+                <a class="navbar-brand" href="/FrontEnd/HTML/Pages/Pag Categorias.html"><i class="bi bi-tags"></i> Categoria</a>
+                <a class="navbar-brand" href="/FrontEnd/HTML/Pages/Pag_Populares.html"><i class="bi bi-star"></i> Popular</a>
+                <a class="navbar-brand" href="/FrontEnd/HTML/Pages/Pag_Suscripccion.html"><i class="bi bi-shop"></i> Suscripccion</a>
+            </div>
+        </nav><br>
+
+        <div class="container text-center">
+
+            <div class="row row-cols-1 row-cols-md-3 g-4">
+                <div class="col">
+                  <div class="card h-100">
+                    <img src="/FrontEnd/Images/V1Naruto.jfif" class="card-img-top" alt="V1Naruto">
+                    <div class="card-body">
+                      <h5 class="card-title">Naruto</h5>
+                      <a href="/FrontEnd/HTML/Mangas/NarutoTomos.html" class="btn btn-primary">Ir a los Tomos</a>
+                    </div>
+                  </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="/FrontEnd/Images/V1OnePiece.jfif" class="card-img-top" alt="V1OnePiece">
+                        <div class="card-body">
+                            <h5 class="card-title">One Piece</h5>
+                            <a href="/FrontEnd/HTML/Mangas/OnePieceTomos.html" class="btn btn-primary">Ir a los Tomos</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="/FrontEnd/Images/V1DragonBall.jpg" class="card-img-top" alt="V1DragonBall">
+                        <div class="card-body">
+                            <h5 class="card-title">Dragon Ball</h5>
+                            <a href="/FrontEnd/HTML/Mangas/dragonBallTomos.html" class="btn btn-primary">Ir a los Tomos</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="/FrontEnd/Images/V1HunterxHunter.jpg" class="card-img-top" alt="V1HunterxHunter">
+                        <div class="card-body">
+                            <h5 class="card-title">Hunter x Hunter</h5>
+                            <a href="/FrontEnd/HTML/Mangas/hunterxHunterTomos.html" class="btn btn-primary">Ir a los Tomos</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="/FrontEnd/Images/V1NeonGenesisEvangelion.jpeg" class="card-img-top" alt="V1NeonGenesisEvangelion">
+                        <div class="card-body">
+                            <h5 class="card-title">Neon Genesis Evangelion</h5>
+                            <a href="/FrontEnd/HTML/Mangas/neonGenesisEvangelionTomos.html" class="btn btn-primary">Ir a los Tomos</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="/FrontEnd/Images/V1Boruto.jpg" class="card-img-top" alt="V1Boruto">
+                        <div class="card-body">
+                            <h5 class="card-title">Boruto</h5>
+                            <a href="/FrontEnd/HTML/Mangas/borutoTomos.html" class="btn btn-primary">Ir a los Tomos</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="/FrontEnd/Images/V1JujutsuKaisen.jpg" class="card-img-top" alt="V1JujutsuKaisen">
+                        <div class="card-body">
+                            <h5 class="card-title">Jujutsu Kaisen</h5>
+                            <a href="/FrontEnd/HTML/Mangas/JujutsuKaisenTomos.html" class="btn btn-primary">Ir a los Tomos</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="/FrontEnd/Images/V1DemonSlayer.jpg" class="card-img-top" alt="V1DemonSlayer">
+                        <div class="card-body">
+                            <h5 class="card-title">Demon Slayer</h5>
+                            <a href="/FrontEnd/HTML/Mangas/demonSlayer.html" class="btn btn-primary">Ir a los Tomos</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="/FrontEnd/Images/V1MyHeroAcademia.jpg" class="card-img-top" alt="V1MyHeroAcademia">
+                        <div class="card-body">
+                            <h5 class="card-title">My Hero Academia</h5>
+                            <a href="/FrontEnd/HTML/Mangas/myHeroAcademiaTomos.html" class="btn btn-primary">Ir a los Tomos</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="/FrontEnd/Images/PortadaSPYxFamily.jpg" class="card-img-top" alt="V1SPYxFamily">
+                        <div class="card-body">
+                            <h5 class="card-title">SPY x Family</h5>
+                            <a href="/FrontEnd/HTML/Mangas/sPYxFamily.html" class="btn btn-primary">Ir a los Tomos</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="/FrontEnd/Images/V1AttackOnTitan.jpg" class="card-img-top" alt="V1AttackOnTitan">
+                        <div class="card-body">
+                            <h5 class="card-title">Attack On Titan</h5>
+                            <a href="/FrontEnd/HTML/Mangas/attackOnTitan.html" class="btn btn-primary">Ir a los Tomos</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="card h-100">
+                        <img src="/FrontEnd/Images/V1ChainsawMan.jpg" class="card-img-top" alt="V1ChainsawMan">
+                        <div class="card-body">
+                            <h5 class="card-title">Chainsaw Man</h5>
+                            <a href="/FrontEnd/HTML/Mangas/chainsawManTomos.html" class="btn btn-primary">Ir a los Tomos</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+        </div><br>
+        <hr>
+        <!-- Inicio Formulario Reseña -->
+        <div class="container">
+            <h3>Crear Nuevos Comentarios</h3>
+            <form id="resenaForm" class="mt-4">
+                <div class="form-group">
+                    <label for="manga">Manga</label>
+                    <select class="form-control" id="manga" required>
+                        <!-- Opciones de manga se cargarán dinámicamente -->
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="rating">Rating</label>
+                    <select class="form-control" id="rating" required>
+                        <option value="1">1 estrella</option>
+                        <option value="2">2 estrellas</option>
+                        <option value="3">3 estrellas</option>
+                        <option value="4">4 estrellas</option>
+                        <option value="5">5 estrellas</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="comment">Comentario</label>
+                    <textarea class="form-control" id="comment" rows="3" required></textarea>
+                </div><br>
+                <button type="submit" class="btn btn-primary btn-block">Guardar Reseña</button>
+            </form>
+        </div>
+        <!-- Termino Formulario Reseña -->
+        <!-- Inicio Tabla registros de Reseñas -->
+        <div class="container">
+            <div class="mt-4">
+                <h3>Registros de Reseñas</h3>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Manga</th>
+                            <th>Rating</th>
+                            <th>Comentario</th>
+                            <th>Fecha</th>
+                        </tr>
+                    </thead>
+                    <tbody id="resenaTableBody">
+                        <!-- Aquí se cargarán las reseñas -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <!-- Termino Tabla registros de Reseñas -->
+         <hr>
+        <!-- Inicio Formulario Autor -->
+         <div class="container">
+            <h3>Crear Autores</h3>
+            <form id="autorForm" class="mt-4">
+                <div class="form-group">
+                    <label for="name">Nombre</label>
+                    <input type="text" class="form-control" id="name" placeholder="Nombre" required>
+                </div>
+                <div class="form-group">
+                    <label for="country">País</label>
+                    <input type="text" class="form-control" id="country" placeholder="País" required>
+                </div>
+                <div class="form-group">
+                    <label for="gender">Género</label>
+                    <select class="form-control" id="gender" required>
+                        <option value="M">Masculino</option>
+                        <option value="F">Femenino</option>
+                    </select>
+                </div><br>
+                <button type="submit" class="btn btn-primary btn-block">Guardar Autor</button>
+            </form>
+        </div>
+        <!-- Termino Formulario Autor -->
+        <!-- Inicio Tabla registros de Autor -->
+        <div class="container">
+            <div class="mt-4">
+                <h3>Lista de Autores</h3>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Nombre</th>
+                            <th>País</th>
+                            <th>Género</th>
+                        </tr>
+                    </thead>
+                    <tbody id="autoresTableBody">
+                        <!-- Aqui se cargaran -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <!-- Termino Tabla registros de Autor -->
+         <hr>
+        <!-- Inicio Formulario para los Mangas -->
+        <div class="container">
+            <h3>Pedir Futuros Mangas</h3>
+            <form id="mangaForm" class="mt-4">
+                <div class="form-group">
+                    <label for="title">Título</label>
+                    <input type="text" class="form-control" id="title" placeholder="Título del manga" required>
+                </div>
+                <div class="form-group">
+                    <label for="author">Autor</label>
+                    <select class="form-control" id="author" required>
+                        <option value="">Selecciona un autor</option>
+                        <!-- Se cargará aquí -->
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="publication_date">Fecha de Publicación</label>
+                    <input type="date" class="form-control" id="publication_date" required>
+                </div>
+                <div class="form-group">
+                    <label for="description">Descripción</label>
+                    <textarea class="form-control" id="description" rows="3" placeholder="Descripción del manga" required></textarea>
+                </div>
+                <div class="form-group">
+                    <label for="status">Estado</label>
+                    <select class="form-control" id="status" required>
+                        <option value="E">En emisión</option>
+                        <option value="F">Finalizado</option>
+                    </select>
+                </div>
+                <br>
+                <button type="submit" class="btn btn-primary btn-block">Guardar Manga</button>
+            </form>
+        </div>
+        <!-- Termino Formulario para los Mangas -->
+        <!-- Inicio Tabla registros de Mangas -->
+        <div class="container">
+            <div class="mt-4">
+                <h3>Registros de Mangas</h3>
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>Título</th>
+                            <th>Autor</th>
+                            <th>Fecha de Publicación</th>
+                            <th>Descripción</th>
+                            <th>Estado</th>
+                        </tr>
+                    </thead>
+                    <tbody id="mangaTableBody">
+                        <!-- Aqui se cargaran-->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <!-- Termino Tabla registros de Mangas -->
+        <hr>
+    </main>
+    
+    <footer> <!-- Pie de codigo -->
+        <h3> Entrar en la comunidad </h3>
+        <b> ¿Te gustaria entrar en nuestra sociedad para estar al dia con nuestros articulos?</b><br>
+        <b> <a href="/FrontEnd/HTML/User/Registro.html"> Registrate </a> o si ya tienes <a href="/FrontEnd/HTML/User/InicioSesion.html"> Inicia Sesion</a></b>
+    </footer>
+</body>
+</html>
