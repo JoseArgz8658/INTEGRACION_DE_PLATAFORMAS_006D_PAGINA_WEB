@@ -4,7 +4,7 @@ function crearTarjetaManga(manga) {
   return $(`
     <div class="col-md-4">
       <div class="card h-100">
-        <img class="card-img-top" src="${manga.image_logo}" alt="${manga.titulo}">
+        <img class="card-img-top" src="${manga.image_manga}" alt="${manga.titulo}">
         <div class="card-body">
           <h5 class="card-title">${manga.titulo}</h5>
           <p class="card-text">Estado: ${manga.estado}</p>
