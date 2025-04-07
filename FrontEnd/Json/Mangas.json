@@ -41,8 +41,8 @@
         "estado": "Finalizado",
         "fecha_publicacion": "26/12/1994",
         "introduccion": "_Neon Genesis Evangelion_ es una serie de anime japonesa que ha dejado una marca indeleble en la cultura pop desde su estreno en 1995. Creada por Hideaki Anno y producida por Gainax, esta obra maestra del género mecha no solo cautivó a los fanáticos con sus impresionantes batallas entre gigantes biomecánicos llamados Evangelions, sino que también profundizó en temas filosóficos y psicológicos complejos. La trama sigue a un grupo de adolescentes pilotos, encabezados por el enigmático Shinji Ikari, reclutados por la organización secreta NERV para defender a la humanidad de criaturas misteriosas conocidas como Ángeles. A medida que la serie avanza, se desarrollan intrincadas relaciones entre los personajes, revelando sus luchas internas, traumas pasados y la complejidad del ser humano. _Neon Genesis Evangelion_ desafía las convenciones del género y ofrece una experiencia emocionalmente intensa y reflexiva que continúa siendo relevante y debatida por los fanáticos hasta el día de hoy.",
-        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloNeonGenesisEvangelion.png",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1NeonGenesisEvangelion.jpeg"
+        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1NeonGenesisEvangelion.jpeg",
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloNeonGenesisEvangelion.png"
     },
     {
         "titulo": "Boruto",
@@ -50,8 +50,8 @@
         "estado": "En Curso",
         "fecha_publicacion": "09/05/2016",
         "introduccion": "_Boruto: Naruto Next Generations_ es una continuación del icónico manga y anime _Naruto_, creado por Masashi Kishimoto. Esta nueva serie se centra en Boruto Uzumaki, hijo del séptimo Hokage, Naruto Uzumaki, y de Hinata Hyuga. La historia sigue las aventuras de Boruto y sus amigos mientras enfrentan desafíos en la Aldea Oculta de la Hoja y más allá.\n\nA lo largo de la serie, Boruto busca su propio camino ninja, tratando de diferenciarse de su famoso padre mientras lucha contra enemigos poderosos y se enfrenta a dilemas personales. Con un elenco de personajes tanto nuevos como familiares de _Naruto_, _Boruto_ explora temas de amistad, familia, sacrificio y el legado dejado por generaciones anteriores.\n\n_Boruto: Naruto Next Generations_ ha cautivado a una nueva generación de fanáticos mientras continúa expandiendo el universo ninja establecido por su predecesor, ofreciendo nuevas historias emocionantes y revelando más sobre el mundo shinobi.",
-        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloBoruto.png",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1Boruto.jpg"
+        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1Boruto.jpg",
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloBoruto.png"
     },
     {
         "titulo": "Jujutsu Kaisen",
@@ -59,8 +59,8 @@
         "estado": "En Curso",
         "fecha_publicacion": "05/03/2018",
         "introduccion": "La historia sigue a Yuji Itadori, un estudiante de secundaria con una fuerza física sobrehumana que vive una vida ordinaria hasta que se encuentra con una maldición. Tras un encuentro con una maldición poderosa, Yuji se ve obligado a unirse a una organización secreta de hechiceros jujutsu que luchan contra estas maldiciones para proteger a la humanidad.\n\nYuji se convierte en el anfitrión de una maldición de grado especial conocida como Sukuna, el _Rey de las Maldiciones_, después de ingerir uno de sus dedos malditos para salvar a sus amigos. A partir de entonces, Yuji debe aprender a controlar el poder de Sukuna mientras se entrena en el Colegio Técnico de Magia Metropolitana de Tokio bajo la tutela del carismático y poderoso hechicero Satoru Gojo. Junto a sus compañeros de clase, Megumi Fushiguro y Nobara Kugisaki, Yuji se enfrenta a diversas amenazas sobrenaturales y desafíos personales mientras exploran el oscuro mundo de las maldiciones.",
-        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloJujutsuKaisen.png",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1JujutsuKaisen.jpg"
+        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1JujutsuKaisen.jpg",
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloJujutsuKaisen.png"
     },
     {
         "titulo": "Demon Slayer",
@@ -68,8 +68,8 @@
         "estado": "Finalizado",
         "fecha_publicacion": "15/02/2016",
         "introduccion": "La historia sigue a Tanjiro Kamado, un joven amable y trabajador que vive en las montañas con su familia. Su vida pacífica se ve trágicamente interrumpida cuando descubre que su familia ha sido brutalmente asesinada por demonios, con excepción de su hermana menor, Nezuko Kamado, quien ha sido transformada en un demonio.\n\nA pesar de su nueva condición, Nezuko retiene signos de humanidad y muestra una feroz lealtad hacia su hermano. Determinado a vengar a su familia y devolverle la humanidad a Nezuko, Tanjiro se convierte en un cazador de demonios y se une al Cuerpo de Exterminio de Demonios. Bajo la tutela del experimentado cazador Sakonji Urokodaki, Tanjiro se somete a un riguroso entrenamiento para desarrollar sus habilidades de combate y el uso de la técnica de respiración especial conocida como Respiración del Agua.\n\nA lo largo de su viaje, Tanjiro se encuentra con otros cazadores de demonios, incluidos Zenitsu Agatsuma, un joven cobarde pero sorprendentemente poderoso, y Inosuke Hashibira, un luchador feroz y salvaje. Juntos, enfrentan numerosos desafíos y peligros, incluyendo al poderoso demonio Muzan Kibutsuji, el primer demonio y el principal antagonista de la serie.",
-        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloDemonSlayer.png",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1DemonSlayer.jpg"
+        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1DemonSlayer.jpg",
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloDemonSlayer.png"
     },
     {
         "titulo": "My Hero Academia",
@@ -77,8 +77,8 @@
         "estado": "En Curso",
         "fecha_publicacion": "07/07/2014",
         "introduccion": "La historia está ambientada en un mundo donde casi el 80% de la población posee superpoderes conocidos como _Quirks_. Estos Quirks varían enormemente y otorgan habilidades únicas a sus poseedores. En este mundo lleno de superhumanos, los héroes profesionales protegen a la sociedad de los villanos que usan sus Quirks para el mal.\n\nEl protagonista, Izuku Midoriya, es un joven sin Quirk en un mundo donde tener uno es la norma. A pesar de su falta de poderes, Izuku sueña con convertirse en un gran héroe como su ídolo, All Might, el héroe número uno. Su vida cambia drásticamente cuando un encuentro fortuito con All Might le da la oportunidad de heredar el Quirk de este último, One For All. Con su nuevo poder, Izuku se inscribe en la Academia U.A., una prestigiosa escuela de héroes donde entrena para convertirse en el mejor héroe posible.\n\nEn la Academia U.A., Izuku hace amigos y aliados, incluidos Katsuki Bakugo, su rival de la infancia con una actitud explosiva, y Ochaco Uraraka, una chica amable con el poder de anular la gravedad. Junto con sus compañeros de clase, Izuku enfrenta una variedad de desafíos y enemigos, incluidos los temidos villanos de la Liga de Villanos, liderados por Tomura Shigaraki y el misterioso All For One.",
-        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloBokuNoHeroAcademia.png",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1MyHeroAcademia.jpg"
+        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1MyHeroAcademia.jpg",
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloBokuNoHeroAcademia.png"
     },
     {
         "titulo": "SPY x Family",
@@ -86,8 +86,8 @@
         "estado": "En Curso",
         "fecha_publicacion": "25/03/2019",
         "introduccion": "La historia de Spy x Family gira en torno a un espía de élite conocido por su alias Twilight, quien recibe una misión extremadamente importante: infiltrarse en una prestigiosa escuela privada para acercarse a un objetivo de alto perfil. Para cumplir con esta misión, Twilight debe formar una familia falsa. Adopta la identidad de Loid Forger y comienza a buscar miembros para su nueva familia.\n\nLoid adopta a una niña llamada Anya, quien, sin que él lo sepa, posee habilidades telepáticas. Anya, capaz de leer la mente de los demás, descubre rápidamente la verdadera identidad de Loid, pero decide no revelarlo porque encuentra emocionante la vida de un espía. Para completar la familia, Loid necesita una esposa, y así entra en su vida Yor Briar, una oficinista que secretamente es una asesina profesional conocida como Thorn Princess. Yor acepta el matrimonio por razones propias, sin saber la verdadera profesión de Loid.\n\nA medida que los tres viven juntos, deben ocultar sus verdaderas identidades y navegar las complejidades de su misión, todo mientras intentan convertirse en una familia auténtica. La convivencia de estos personajes con habilidades y secretos tan distintos da lugar a situaciones cómicas y conmovedoras, creando un equilibrio perfecto entre acción, humor y drama.",
-        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloSPYxFamily.png",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1SPYxFamily.jpg"
+        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1SPYxFamily.jpg",
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloSPYxFamily.png"
     },
     {
         "titulo": "Attack On Titan",
@@ -95,8 +95,8 @@
         "estado": "Finalizado",
         "fecha_publicacion": "09/09/2009",
         "introduccion": "La historia de Attack on Titan está ambientada en un mundo donde la humanidad vive confinada dentro de enormes muros que los protegen de gigantes humanoides devoradores de personas conocidos como Titanes. La trama se centra en Eren Yeager, su hermana adoptiva Mikasa Ackerman y su amigo de la infancia Armin Arlert, cuyos destinos cambian drásticamente después de que un Titán Colosal destruye el muro de su ciudad, permitiendo que los Titanes entren y causen una devastación masiva.\n\nTras la tragedia, Eren jura exterminar a todos los Titanes y se une al Cuerpo de Exploración, una rama militar encargada de combatir a los Titanes fuera de los muros. A medida que Eren y sus amigos se enfrentan a los Titanes y descubren más sobre su origen, revelan secretos profundos y oscuros sobre su propio mundo y la verdadera naturaleza de los Titanes.\n\nLa serie avanza explorando temas de libertad, supervivencia y la lucha contra la opresión, mientras los personajes principales enfrentan traiciones, desafíos morales y la verdad detrás de los muros que los han protegido.",
-        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloAttackOnTitan.png",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1AttackOnTitan.jpg"
+        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1AttackOnTitan.jpg",
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloAttackOnTitan.png"
     },
     {
         "titulo": "Chainsaw Man",
@@ -104,7 +104,7 @@
         "estado": "En Curso",
         "fecha_publicacion": "03/12/2018",
         "introduccion": "La historia sigue a Denji, un joven extremadamente pobre que vive una vida miserable trabajando como cazador de demonios para pagar las deudas de su fallecido padre a la yakuza. Denji tiene un perro-demonio llamado Pochita, que también puede transformarse en una motosierra, ayudándolo en su labor de cazar demonios.\n\nLa vida de Denji cambia drásticamente cuando es traicionado por la yakuza y asesinado por un demonio. En su último aliento, Denji hace un pacto con Pochita, quien se fusiona con él y lo revive como Chainsaw Man, un híbrido humano-demonio con la capacidad de transformar partes de su cuerpo en motosierras. Con sus nuevas habilidades, Denji es reclutado por Makima, una misteriosa y manipuladora oficial de la Seguridad Pública, una organización gubernamental encargada de cazar demonios.\n\nDenji se une al equipo de cazadores de demonios y trabaja junto a personajes como Aki Hayakawa, un cazador serio con un trágico pasado, y Power, una demonio de sangre con una personalidad salvaje y caótica. A medida que Denji se adentra en el mundo de la caza de demonios, se enfrenta a peligros cada vez mayores, descubrimientos impactantes y dilemas morales que lo llevan a cuestionar su humanidad y sus deseos.",
-        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloChainsawMan.png",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1ChainsawMan.jpg"
+        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1ChainsawMan.jpg",
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloChainsawMan.png"
     }
 ]
