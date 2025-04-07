@@ -3,18 +3,45 @@
         "titulo": "Naruto",
         "descripcion": "Naruto es un joven ninja de la aldea ficticia de Konoha. Con un espíritu indomable y una determinación inquebrantable, Naruto sueña con convertirse en el Hokage, el líder de su aldea. Su viaje está lleno de desafíos, pero nunca deja que los obstáculos se interpongan en su camino.",
         "estado": "Finalizado",
-        "fecha_publicacion": "21-09-1999",
+        "fecha_publicacion": "21/09/1999",
         "introduccion": "_Naruto_ es una franquicia de manga y anime creada por Masashi Kishimoto que ha dejado una marca indeleble en la cultura popular desde su debut en 1999. La historia sigue las aventuras de Naruto Uzumaki, un joven ninja con el sueño de convertirse en el Hokage, el líder de su aldea y el ninja más poderoso de todos.\n\nLa serie está ambientada en un mundo ninja ficticio donde las aldeas ocultas luchan por el poder y la supervivencia. Naruto, un niño huérfano con un pasado misterioso, es marginado y menospreciado por muchos en su aldea debido a que tiene sellado dentro de él al Zorro de Nueve Colas, una criatura legendaria que una vez devastó la aldea.\n\nA pesar de sus desafíos, Naruto es un optimista incansable y nunca se rinde en la búsqueda de su sueño. Con la ayuda de sus amigos y compañeros de equipo, incluyendo a Sasuke Uchiha y Sakura Haruno, Naruto se embarca en misiones peligrosas, enfrenta enemigos formidables y aprende valiosas lecciones sobre amistad, sacrificio y redención.\n\nA lo largo de la serie, Naruto descubre la verdad sobre su pasado, desentraña conspiraciones oscuras y se enfrenta a enemigos poderosos, incluido el misterioso grupo conocido como Akatsuki. A medida que Naruto crece y se fortalece como ninja, también lo hace su determinación de proteger a sus seres queridos y cumplir su destino como Hokage.\n\n_Naruto_ es conocido por su emocionante acción, personajes carismáticos y desarrollo profundo de la trama y los personajes. La serie ha dejado un legado duradero en el mundo del anime y ha inspirado a millones de fanáticos en todo el mundo con su mensaje de perseverancia, amistad y superación personal.",
-        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/V1Naruto.jfif",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/TituloNaruto.png"
+        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/V1Naruto.jfif",
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/TituloNaruto.png"
     },
     {
-        "titulo": "...",
-        "descripcion": "...",
-        "estado": "...",
-        "fecha_publicacion": "...",
-        "introduccion": "......",
-        "image_manga": "...",
-        "image_logo": "..."
+        "titulo": "One Piece",
+        "descripcion": "One Piece es la historia de un chico llamado Monkey D. Luffy, quién se inspiró en Shanks, un pirata que le salvó la vida, para convertirse en el Rey de los Piratas. Al comienzo de la serie, veinticuatro años antes de la historia actual, un pirata llamado Gol D.",
+        "estado": "En Curso",
+        "fecha_publicacion": "22/07/1997",
+        "introduccion": "_One Piece_ es una serie de manga y anime creada por Eiichiro Oda que ha cautivado a audiencias de todo el mundo desde su debut en 1997. La historia sigue las aventuras de Monkey D. Luffy, un joven que sueña con convertirse en el Rey de los Piratas, y su tripulación variada mientras navegan por el vasto y peligroso océano Grand Line en busca del legendario tesoro conocido como _One Piece_.\n\nLa serie está ambientada en un mundo ficticio donde la piratería es común y los mares están llenos de islas exóticas, criaturas extrañas y poderosos piratas. Luffy, con su deseo ardiente de libertad y su habilidad para estirar su cuerpo como resultado de comer una fruta del diablo, reúne a un ecléctico grupo de compañeros de viaje, cada uno con habilidades únicas y un pasado intrigante.\n\nA lo largo de su viaje, Luffy y su tripulación se enfrentan a numerosos desafíos, incluyendo enfrentamientos con otros piratas, el Gobierno Mundial y la misteriosa organización conocida como los Siete Guerreros del Mar. Sin embargo, su determinación, amistad y espíritu de aventura los ayudan a superar obstáculos aparentemente insuperables.\n\n_One Piece_ es conocida por su narrativa épica, personajes memorables, emocionantes escenas de acción y un mundo profundamente detallado y fascinante. A lo largo de sus más de dos décadas de publicación, la serie ha ganado legiones de seguidores devotos y se ha convertido en una de las franquicias de medios más exitosas y duraderas de todos los tiempos.",
+        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloOnePiece.png",
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1OnePiece.jfif"
+    },
+    {
+        "titulo": "Dragon Ball",
+        "descripcion": "Su trama describe las aventuras de Gokū, un guerrero saiyajin, experto en artes marciales que en su infancia inicia sus viajes y aventuras en las que pone a prueba y mejora sus habilidades de pelea, enfrentando oponentes y protegiendo a la Tierra de otros seres que quieren conquistarla y exterminar a la humanidad.",
+        "estado": "Finalizado",
+        "fecha_publicacion": "20/11/1984",
+        "introduccion": "_Dragon Ball_ es una franquicia japonesa icónica que abarca manga, anime, películas, videojuegos y una vasta gama de productos de entretenimiento. Creada por Akira Toriyama, la serie debutó en 1984 como un manga serializado en la revista Weekly Shonen Jump de Shueisha. La historia sigue las aventuras de Son Goku, un joven saiyajin con una fuerza y habilidades extraordinarias, mientras viaja por el universo en busca de las legendarias Dragon Balls, esferas mágicas que conceden cualquier deseo a quien las reúna. Con un equilibrio único entre acción, comedia y elementos de mitología, _Dragon Ball_ ha dejado una huella indeleble en la cultura pop global, convirtiéndose en un fenómeno cultural y un referente para varias generaciones de fanáticos del anime y el manga.",
+        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/V1DragonBall.jpg",
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/TituloDragonBall.png"
+    },
+    {
+        "titulo": "",
+        "descripcion": "",
+        "estado": "",
+        "fecha_publicacion": "",
+        "introduccion": "",
+        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/",
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/"
+    },
+    {
+        "titulo": "",
+        "descripcion": "",
+        "estado": "",
+        "fecha_publicacion": "",
+        "introduccion": "",
+        "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/",
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/"
     }
 ]
