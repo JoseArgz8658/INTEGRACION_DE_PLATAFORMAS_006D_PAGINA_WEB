@@ -21,7 +21,7 @@ $(document).ready(function () {
     .then(data => {
       const container = $('#mangas-container');
       data.forEach(manga => {
-        if (manga.titulo !== "") { // Evitar mangas vacíos
+        if (manga.titulo !== "") { // Evita mangas vacíos
           const tarjeta = crearTarjetaManga(manga);
           container.append(tarjeta);
         }
