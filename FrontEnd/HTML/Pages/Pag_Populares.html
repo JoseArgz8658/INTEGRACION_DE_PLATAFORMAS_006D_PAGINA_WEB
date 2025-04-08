@@ -15,6 +15,8 @@
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/jquery-validation@1.19.5/dist/jquery.validate.min.js"></script>
+
+    <script src="/FrontEnd/JavaScript/busquedaManga.js"></script>
 </head>
 <body> <!-- Cuerpo del codigo -->
     <header> <!-- Cabeza del codigo -->
@@ -45,13 +47,16 @@
                     <a class="nav-link" href="/FrontEnd/HTML/Pages/Pag_Suscripccion.html"><i class="bi bi-shop"></i> Suscripccion</a>
                   </li>
                 </ul>
-                <form class="d-flex" role="search">
-                  <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                  <button class="btn btn-outline-success" type="submit">Search</button>
-                </form>
               </div>
             </div>
-          </nav>
+          </nav><br>
+          <div class="container">
+            <form class="d-flex" role="search" id="searchForm">
+              <input class="form-control me-2" type="search" placeholder="Buscar Manga" aria-label="Search" id="searchInput">
+              <button class="btn btn-outline-success" type="submit">Buscar</button>
+            </form>
+            <div id="resultContainer" style="max-height: 150px; overflow-y: auto;"></div>
+        </div><br>
 
         <div class="container text-center">
 

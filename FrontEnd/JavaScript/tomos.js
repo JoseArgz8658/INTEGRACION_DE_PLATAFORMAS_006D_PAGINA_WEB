@@ -22,8 +22,8 @@ document.addEventListener("DOMContentLoaded", () => {
         <div class="card mb-4">
           <div class="row g-0">
             <div class="col-md-4 text-center p-3">
-              <img src="${manga.image_logo}" class="img-fluid rounded-start" alt="Logo de ${manga.titulo}">
               <img src="${manga.image_manga}" class="img-fluid mt-3" alt="${manga.titulo}">
+              <img src="${manga.image_logo}" class="img-fluid rounded-start" alt="Logo de ${manga.titulo}">
             </div>
             <div class="col-md-8">
               <div class="card-body">

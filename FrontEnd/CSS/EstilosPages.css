@@ -37,12 +37,6 @@ hr {
     margin: 20px;
 }
 
-.contenedor {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
 .carousel-container {
     max-width: 900px;
     margin: 0 auto;

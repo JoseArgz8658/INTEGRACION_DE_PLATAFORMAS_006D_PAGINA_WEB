@@ -6,7 +6,7 @@ function generarNombreArchivo(titulo) {
     .replace(/[\u0300-\u036f]/g, "")
     .replace(/\s+/g, '')           // Quitar espacios
     .replace(/[^a-zA-Z0-9]/g, '')  // Quitar caracteres especiales
-    + "Tomos.html";
+    + "tomos.html";
 }
 
 function crearTarjetaManga(manga) {
