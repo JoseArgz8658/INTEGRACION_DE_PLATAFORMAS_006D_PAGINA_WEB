@@ -1,110 +1,158 @@
 [
     {
+        "id": "1",
         "titulo": "Naruto",
         "descripcion": "Naruto es un joven ninja de la aldea ficticia de Konoha. Con un espíritu indomable y una determinación inquebrantable, Naruto sueña con convertirse en el Hokage, el líder de su aldea. Su viaje está lleno de desafíos, pero nunca deja que los obstáculos se interpongan en su camino.",
         "estado": "Finalizado",
         "fecha_publicacion": "21/09/1999",
         "introduccion": "_Naruto_ es una franquicia de manga y anime creada por Masashi Kishimoto que ha dejado una marca indeleble en la cultura popular desde su debut en 1999. La historia sigue las aventuras de Naruto Uzumaki, un joven ninja con el sueño de convertirse en el Hokage, el líder de su aldea y el ninja más poderoso de todos.\n\nLa serie está ambientada en un mundo ninja ficticio donde las aldeas ocultas luchan por el poder y la supervivencia. Naruto, un niño huérfano con un pasado misterioso, es marginado y menospreciado por muchos en su aldea debido a que tiene sellado dentro de él al Zorro de Nueve Colas, una criatura legendaria que una vez devastó la aldea.\n\nA pesar de sus desafíos, Naruto es un optimista incansable y nunca se rinde en la búsqueda de su sueño. Con la ayuda de sus amigos y compañeros de equipo, incluyendo a Sasuke Uchiha y Sakura Haruno, Naruto se embarca en misiones peligrosas, enfrenta enemigos formidables y aprende valiosas lecciones sobre amistad, sacrificio y redención.\n\nA lo largo de la serie, Naruto descubre la verdad sobre su pasado, desentraña conspiraciones oscuras y se enfrenta a enemigos poderosos, incluido el misterioso grupo conocido como Akatsuki. A medida que Naruto crece y se fortalece como ninja, también lo hace su determinación de proteger a sus seres queridos y cumplir su destino como Hokage.\n\n_Naruto_ es conocido por su emocionante acción, personajes carismáticos y desarrollo profundo de la trama y los personajes. La serie ha dejado un legado duradero en el mundo del anime y ha inspirado a millones de fanáticos en todo el mundo con su mensaje de perseverancia, amistad y superación personal.",
         "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1Naruto.jfif",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloNaruto.png"
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloNaruto.png",
+        "top": "6",
+        "vistos": "6",
+        "vendidos": "3"
     },
     {
+        "id": "2",
         "titulo": "One Piece",
         "descripcion": "One Piece es la historia de un chico llamado Monkey D. Luffy, quién se inspiró en Shanks, un pirata que le salvó la vida, para convertirse en el Rey de los Piratas. Al comienzo de la serie, veinticuatro años antes de la historia actual, un pirata llamado Gol D.",
         "estado": "En Curso",
         "fecha_publicacion": "22/07/1997",
         "introduccion": "_One Piece_ es una serie de manga y anime creada por Eiichiro Oda que ha cautivado a audiencias de todo el mundo desde su debut en 1997. La historia sigue las aventuras de Monkey D. Luffy, un joven que sueña con convertirse en el Rey de los Piratas, y su tripulación variada mientras navegan por el vasto y peligroso océano Grand Line en busca del legendario tesoro conocido como _One Piece_.\n\nLa serie está ambientada en un mundo ficticio donde la piratería es común y los mares están llenos de islas exóticas, criaturas extrañas y poderosos piratas. Luffy, con su deseo ardiente de libertad y su habilidad para estirar su cuerpo como resultado de comer una fruta del diablo, reúne a un ecléctico grupo de compañeros de viaje, cada uno con habilidades únicas y un pasado intrigante.\n\nA lo largo de su viaje, Luffy y su tripulación se enfrentan a numerosos desafíos, incluyendo enfrentamientos con otros piratas, el Gobierno Mundial y la misteriosa organización conocida como los Siete Guerreros del Mar. Sin embargo, su determinación, amistad y espíritu de aventura los ayudan a superar obstáculos aparentemente insuperables.\n\n_One Piece_ es conocida por su narrativa épica, personajes memorables, emocionantes escenas de acción y un mundo profundamente detallado y fascinante. A lo largo de sus más de dos décadas de publicación, la serie ha ganado legiones de seguidores devotos y se ha convertido en una de las franquicias de medios más exitosas y duraderas de todos los tiempos.",
         "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1OnePiece.jfif",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloOnePiece.png"
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloOnePiece.png",
+        "top": "1",
+        "vistos": "1",
+        "vendidos": "1"
     },
     {
+        "id": "3",
         "titulo": "Dragon Ball",
         "descripcion": "Su trama describe las aventuras de Gokū, un guerrero saiyajin, experto en artes marciales que en su infancia inicia sus viajes y aventuras en las que pone a prueba y mejora sus habilidades de pelea, enfrentando oponentes y protegiendo a la Tierra de otros seres que quieren conquistarla y exterminar a la humanidad.",
         "estado": "Finalizado",
         "fecha_publicacion": "20/11/1984",
         "introduccion": "_Dragon Ball_ es una franquicia japonesa icónica que abarca manga, anime, películas, videojuegos y una vasta gama de productos de entretenimiento. Creada por Akira Toriyama, la serie debutó en 1984 como un manga serializado en la revista Weekly Shonen Jump de Shueisha. La historia sigue las aventuras de Son Goku, un joven saiyajin con una fuerza y habilidades extraordinarias, mientras viaja por el universo en busca de las legendarias Dragon Balls, esferas mágicas que conceden cualquier deseo a quien las reúna. Con un equilibrio único entre acción, comedia y elementos de mitología, _Dragon Ball_ ha dejado una huella indeleble en la cultura pop global, convirtiéndose en un fenómeno cultural y un referente para varias generaciones de fanáticos del anime y el manga.",
         "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1DragonBall.jpg",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloDragonBall.png"
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloDragonBall.png",
+        "top": "7",
+        "vistos": "7",
+        "vendidos": "6"
     },
     {
+        "id": "4",
         "titulo": "Hunter x Hunter",
         "descripcion": "La serie sigue la historia de varios cazadores que se dedican principalmente a realizar tareas muy peligrosas, desde localizar objetos raros y monstruos a atravesar territorios inexplorados. La historia sigue a Gon Freecss, un niño de 12 años, que intenta encontrar a su padre y cazador Ging.",
         "estado": "En Curso",
         "fecha_publicacion": "03/03/1998",
         "introduccion": "_Hunter x Hunter_ es un popular manga y anime creado por Yoshihiro Togashi que ha cautivado a audiencias de todo el mundo con su emocionante historia y personajes memorables. La trama sigue las aventuras de Gon Freecss, un joven decidido a encontrar a su padre desaparecido, quien es un legendario _Hunter_, un tipo especial de cazador con habilidades excepcionales y acceso a lugares y conocimientos exclusivos. A lo largo de su viaje, Gon se encuentra con amigos leales y rivales formidables mientras enfrenta desafíos que ponen a prueba su fuerza, inteligencia y determinación. Con su intrincada trama, emocionantes batallas y exploración de temas como la amistad, el sacrificio y el crecimiento personal, _Hunter x Hunter_ se ha ganado un lugar destacado en el mundo del manga y el anime.",
         "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1HunterxHunter.jpg",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloHunterxHunter.png"
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloHunterxHunter.png",
+        "top": "8",
+        "vistos": "8",
+        "vendidos": "7"
     },
     {
+        "id": "5",
         "titulo": "Neon Genesis Evangelion",
         "descripcion": "La historia de la obra se da lugar en un mundo futurista en el que una organización paramilitar llamada NERV protege a la humanidad de los ataques de seres de origen y naturaleza desconocidos, los «Ángeles», utilizando para ello bio mechas humanoides llamados Evangelion (acortado a EVA).",
         "estado": "Finalizado",
         "fecha_publicacion": "26/12/1994",
         "introduccion": "_Neon Genesis Evangelion_ es una serie de anime japonesa que ha dejado una marca indeleble en la cultura pop desde su estreno en 1995. Creada por Hideaki Anno y producida por Gainax, esta obra maestra del género mecha no solo cautivó a los fanáticos con sus impresionantes batallas entre gigantes biomecánicos llamados Evangelions, sino que también profundizó en temas filosóficos y psicológicos complejos. La trama sigue a un grupo de adolescentes pilotos, encabezados por el enigmático Shinji Ikari, reclutados por la organización secreta NERV para defender a la humanidad de criaturas misteriosas conocidas como Ángeles. A medida que la serie avanza, se desarrollan intrincadas relaciones entre los personajes, revelando sus luchas internas, traumas pasados y la complejidad del ser humano. _Neon Genesis Evangelion_ desafía las convenciones del género y ofrece una experiencia emocionalmente intensa y reflexiva que continúa siendo relevante y debatida por los fanáticos hasta el día de hoy.",
         "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1NeonGenesisEvangelion.jpeg",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloNeonGenesisEvangelion.png"
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloNeonGenesisEvangelion.png",
+        "top": "9",
+        "vistos": "9",
+        "vendidos": "8"
     },
     {
+        "id": "6",
         "titulo": "Boruto",
         "descripcion": "Boruto es un Genin de la Aldea Oculta de la Hoja. Es hijo de Naruto Uzumaki y Hinata Hyūga y hermano mayor de Himawari Uzumaki. Además es miembro del Equipo Konohamaru junto a Sarada Uchiha y Mitsuki. Muestra gran amor a su madre y es muy parecido a su padre, heredando su cabello rubio y ojos azules.",
         "estado": "En Curso",
         "fecha_publicacion": "09/05/2016",
         "introduccion": "_Boruto: Naruto Next Generations_ es una continuación del icónico manga y anime _Naruto_, creado por Masashi Kishimoto. Esta nueva serie se centra en Boruto Uzumaki, hijo del séptimo Hokage, Naruto Uzumaki, y de Hinata Hyuga. La historia sigue las aventuras de Boruto y sus amigos mientras enfrentan desafíos en la Aldea Oculta de la Hoja y más allá.\n\nA lo largo de la serie, Boruto busca su propio camino ninja, tratando de diferenciarse de su famoso padre mientras lucha contra enemigos poderosos y se enfrenta a dilemas personales. Con un elenco de personajes tanto nuevos como familiares de _Naruto_, _Boruto_ explora temas de amistad, familia, sacrificio y el legado dejado por generaciones anteriores.\n\n_Boruto: Naruto Next Generations_ ha cautivado a una nueva generación de fanáticos mientras continúa expandiendo el universo ninja establecido por su predecesor, ofreciendo nuevas historias emocionantes y revelando más sobre el mundo shinobi.",
         "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1Boruto.jpg",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloBoruto.png"
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloBoruto.png",
+        "top": "10",
+        "vistos": "10",
+        "vendidos": "9"
     },
     {
+        "id": "7",
         "titulo": "Jujutsu Kaisen",
         "descripcion": "Jujutsu Kaisen, también conocido como _Jujutsu Kaisen: Guerra de Hechiceros_ en algunos mercados, es una serie de manga escrita e ilustrada por Gege Akutami. La serie comenzó su publicación en la revista semanal Weekly Shōnen Jump de la editorial Shueisha en marzo de 2018. Desde entonces, ha ganado una popularidad significativa tanto en Japón como a nivel internacional, consolidándose como una de las series de manga más destacadas de la última década.",
         "estado": "En Curso",
         "fecha_publicacion": "05/03/2018",
         "introduccion": "La historia sigue a Yuji Itadori, un estudiante de secundaria con una fuerza física sobrehumana que vive una vida ordinaria hasta que se encuentra con una maldición. Tras un encuentro con una maldición poderosa, Yuji se ve obligado a unirse a una organización secreta de hechiceros jujutsu que luchan contra estas maldiciones para proteger a la humanidad.\n\nYuji se convierte en el anfitrión de una maldición de grado especial conocida como Sukuna, el _Rey de las Maldiciones_, después de ingerir uno de sus dedos malditos para salvar a sus amigos. A partir de entonces, Yuji debe aprender a controlar el poder de Sukuna mientras se entrena en el Colegio Técnico de Magia Metropolitana de Tokio bajo la tutela del carismático y poderoso hechicero Satoru Gojo. Junto a sus compañeros de clase, Megumi Fushiguro y Nobara Kugisaki, Yuji se enfrenta a diversas amenazas sobrenaturales y desafíos personales mientras exploran el oscuro mundo de las maldiciones.",
         "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1JujutsuKaisen.jpg",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloJujutsuKaisen.png"
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloJujutsuKaisen.png",
+        "top": "3",
+        "vistos": "3",
+        "vendidos": "5"
     },
     {
+        "id": "8",
         "titulo": "Demon Slayer",
         "descripcion": "Demon Slayer: Kimetsu no Yaiba, comúnmente conocido simplemente como Demon Slayer, es una serie de manga escrita e ilustrada por Koyoharu Gotouge. La serie se publicó en la revista Weekly Shōnen Jump de Shueisha desde febrero de 2016 hasta mayo de 2020. Desde su lanzamiento, Demon Slayer ha capturado la imaginación de los lectores y se ha convertido en un fenómeno cultural tanto en Japón como a nivel internacional.",
         "estado": "Finalizado",
         "fecha_publicacion": "15/02/2016",
         "introduccion": "La historia sigue a Tanjiro Kamado, un joven amable y trabajador que vive en las montañas con su familia. Su vida pacífica se ve trágicamente interrumpida cuando descubre que su familia ha sido brutalmente asesinada por demonios, con excepción de su hermana menor, Nezuko Kamado, quien ha sido transformada en un demonio.\n\nA pesar de su nueva condición, Nezuko retiene signos de humanidad y muestra una feroz lealtad hacia su hermano. Determinado a vengar a su familia y devolverle la humanidad a Nezuko, Tanjiro se convierte en un cazador de demonios y se une al Cuerpo de Exterminio de Demonios. Bajo la tutela del experimentado cazador Sakonji Urokodaki, Tanjiro se somete a un riguroso entrenamiento para desarrollar sus habilidades de combate y el uso de la técnica de respiración especial conocida como Respiración del Agua.\n\nA lo largo de su viaje, Tanjiro se encuentra con otros cazadores de demonios, incluidos Zenitsu Agatsuma, un joven cobarde pero sorprendentemente poderoso, y Inosuke Hashibira, un luchador feroz y salvaje. Juntos, enfrentan numerosos desafíos y peligros, incluyendo al poderoso demonio Muzan Kibutsuji, el primer demonio y el principal antagonista de la serie.",
         "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1DemonSlayer.jpg",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloDemonSlayer.png"
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloDemonSlayer.png",
+        "top": "2",
+        "vistos": "4",
+        "vendidos": "2"
     },
     {
+        "id": "9",
         "titulo": "My Hero Academia",
         "descripcion": "My Hero Academia, conocido en Japón como Boku no Hero Academia, es una serie de manga escrita e ilustrada por Kōhei Horikoshi. La serie comenzó su publicación en la revista Weekly Shōnen Jump de Shueisha en julio de 2014. Desde su debut, My Hero Academia ha alcanzado un enorme éxito, convirtiéndose en uno de los mangas y animes más populares de la última década.",
         "estado": "En Curso",
         "fecha_publicacion": "07/07/2014",
         "introduccion": "La historia está ambientada en un mundo donde casi el 80% de la población posee superpoderes conocidos como _Quirks_. Estos Quirks varían enormemente y otorgan habilidades únicas a sus poseedores. En este mundo lleno de superhumanos, los héroes profesionales protegen a la sociedad de los villanos que usan sus Quirks para el mal.\n\nEl protagonista, Izuku Midoriya, es un joven sin Quirk en un mundo donde tener uno es la norma. A pesar de su falta de poderes, Izuku sueña con convertirse en un gran héroe como su ídolo, All Might, el héroe número uno. Su vida cambia drásticamente cuando un encuentro fortuito con All Might le da la oportunidad de heredar el Quirk de este último, One For All. Con su nuevo poder, Izuku se inscribe en la Academia U.A., una prestigiosa escuela de héroes donde entrena para convertirse en el mejor héroe posible.\n\nEn la Academia U.A., Izuku hace amigos y aliados, incluidos Katsuki Bakugo, su rival de la infancia con una actitud explosiva, y Ochaco Uraraka, una chica amable con el poder de anular la gravedad. Junto con sus compañeros de clase, Izuku enfrenta una variedad de desafíos y enemigos, incluidos los temidos villanos de la Liga de Villanos, liderados por Tomura Shigaraki y el misterioso All For One.",
         "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1MyHeroAcademia.jpg",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloBokuNoHeroAcademia.png"
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloBokuNoHeroAcademia.png",
+        "top": "11",
+        "vistos": "5",
+        "vendidos": "10"
     },
     {
+        "id": "10",
         "titulo": "SPY x Family",
         "descripcion": "Spy x Family es una serie de manga escrita e ilustrada por Tatsuya Endo. La serie comenzó su publicación en la plataforma en línea Shōnen Jump+ de Shueisha en marzo de 2019. Desde su lanzamiento, Spy x Family ha capturado rápidamente la atención de los lectores gracias a su mezcla única de comedia, acción y drama familiar, convirtiéndose en una de las series más populares de los últimos años.",
         "estado": "En Curso",
         "fecha_publicacion": "25/03/2019",
         "introduccion": "La historia de Spy x Family gira en torno a un espía de élite conocido por su alias Twilight, quien recibe una misión extremadamente importante: infiltrarse en una prestigiosa escuela privada para acercarse a un objetivo de alto perfil. Para cumplir con esta misión, Twilight debe formar una familia falsa. Adopta la identidad de Loid Forger y comienza a buscar miembros para su nueva familia.\n\nLoid adopta a una niña llamada Anya, quien, sin que él lo sepa, posee habilidades telepáticas. Anya, capaz de leer la mente de los demás, descubre rápidamente la verdadera identidad de Loid, pero decide no revelarlo porque encuentra emocionante la vida de un espía. Para completar la familia, Loid necesita una esposa, y así entra en su vida Yor Briar, una oficinista que secretamente es una asesina profesional conocida como Thorn Princess. Yor acepta el matrimonio por razones propias, sin saber la verdadera profesión de Loid.\n\nA medida que los tres viven juntos, deben ocultar sus verdaderas identidades y navegar las complejidades de su misión, todo mientras intentan convertirse en una familia auténtica. La convivencia de estos personajes con habilidades y secretos tan distintos da lugar a situaciones cómicas y conmovedoras, creando un equilibrio perfecto entre acción, humor y drama.",
         "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1SPYxFamily.jpg",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloSPYxFamily.png"
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloSPYxFamily.png",
+        "top": "4",
+        "vistos": "11",
+        "vendidos": "11"
     },
     {
+        "id": "11",
         "titulo": "Attack On Titan",
         "descripcion": "Attack on Titan, conocido en Japón como Shingeki no Kyojin, es una serie de manga escrita e ilustrada por Hajime Isayama. La serie comenzó su publicación en la revista Bessatsu Shōnen Magazine de Kodansha en septiembre de 2009 y concluyó en abril de 2021. Attack on Titan ha sido un fenómeno cultural, revolucionando el género de acción y horror en el manga y anime.",
         "estado": "Finalizado",
         "fecha_publicacion": "09/09/2009",
         "introduccion": "La historia de Attack on Titan está ambientada en un mundo donde la humanidad vive confinada dentro de enormes muros que los protegen de gigantes humanoides devoradores de personas conocidos como Titanes. La trama se centra en Eren Yeager, su hermana adoptiva Mikasa Ackerman y su amigo de la infancia Armin Arlert, cuyos destinos cambian drásticamente después de que un Titán Colosal destruye el muro de su ciudad, permitiendo que los Titanes entren y causen una devastación masiva.\n\nTras la tragedia, Eren jura exterminar a todos los Titanes y se une al Cuerpo de Exploración, una rama militar encargada de combatir a los Titanes fuera de los muros. A medida que Eren y sus amigos se enfrentan a los Titanes y descubren más sobre su origen, revelan secretos profundos y oscuros sobre su propio mundo y la verdadera naturaleza de los Titanes.\n\nLa serie avanza explorando temas de libertad, supervivencia y la lucha contra la opresión, mientras los personajes principales enfrentan traiciones, desafíos morales y la verdad detrás de los muros que los han protegido.",
         "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1AttackOnTitan.jpg",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloAttackOnTitan.png"
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloAttackOnTitan.png",
+        "top": "12",
+        "vistos": "2",
+        "vendidos": "4"
     },
     {
+        "id": "12",
         "titulo": "Chainsaw Man",
         "descripcion": "Chainsaw Man es una serie de manga escrita e ilustrada por Tatsuki Fujimoto. La serie comenzó su publicación en la revista Weekly Shōnen Jump de Shueisha en diciembre de 2018. Con su mezcla única de acción, horror y comedia negra, Chainsaw Man se ha convertido rápidamente en una de las series de manga más populares y aclamadas de los últimos años.",
         "estado": "En Curso",
         "fecha_publicacion": "03/12/2018",
         "introduccion": "La historia sigue a Denji, un joven extremadamente pobre que vive una vida miserable trabajando como cazador de demonios para pagar las deudas de su fallecido padre a la yakuza. Denji tiene un perro-demonio llamado Pochita, que también puede transformarse en una motosierra, ayudándolo en su labor de cazar demonios.\n\nLa vida de Denji cambia drásticamente cuando es traicionado por la yakuza y asesinado por un demonio. En su último aliento, Denji hace un pacto con Pochita, quien se fusiona con él y lo revive como Chainsaw Man, un híbrido humano-demonio con la capacidad de transformar partes de su cuerpo en motosierras. Con sus nuevas habilidades, Denji es reclutado por Makima, una misteriosa y manipuladora oficial de la Seguridad Pública, una organización gubernamental encargada de cazar demonios.\n\nDenji se une al equipo de cazadores de demonios y trabaja junto a personajes como Aki Hayakawa, un cazador serio con un trágico pasado, y Power, una demonio de sangre con una personalidad salvaje y caótica. A medida que Denji se adentra en el mundo de la caza de demonios, se enfrenta a peligros cada vez mayores, descubrimientos impactantes y dilemas morales que lo llevan a cuestionar su humanidad y sus deseos.",
         "image_manga": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_mangas/V1ChainsawMan.jpg",
-        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloChainsawMan.png"
+        "image_logo": "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Images/images_logos/TituloChainsawMan.png",
+        "top": "5",
+        "vistos": "12",
+        "vendidos": "12"
     }
 ]

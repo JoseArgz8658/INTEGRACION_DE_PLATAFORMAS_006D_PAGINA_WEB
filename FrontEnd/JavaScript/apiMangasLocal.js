@@ -1,6 +1,16 @@
 const url = "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Json/Mangas.json";
 
+function generarNombreArchivo(titulo) {
+  return titulo
+    .normalize("NFD")               // Quitar acentos
+    .replace(/[\u0300-\u036f]/g, "")
+    .replace(/\s+/g, '')           // Quitar espacios
+    .replace(/[^a-zA-Z0-9]/g, '')  // Quitar caracteres especiales
+    + "Tomos.html";
+}
+
 function crearTarjetaManga(manga) {
+  const archivoTomos = generarNombreArchivo(manga.titulo);
   return $(`
     <div class="col-md-4">
       <div class="card h-100">
@@ -9,6 +19,7 @@ function crearTarjetaManga(manga) {
           <h5 class="card-title">${manga.titulo}</h5>
           <p class="card-text">Estado: ${manga.estado}</p>
           <p class="card-text">Fecha de publicación: ${manga.fecha_publicacion}</p>
+          <a href="/FrontEnd/HTML/Pages/Tomos.html?manga=${encodeURIComponent(manga.titulo)}" class="btn btn-primary">Ir a los Tomos</a>
         </div>
       </div>
     </div>
