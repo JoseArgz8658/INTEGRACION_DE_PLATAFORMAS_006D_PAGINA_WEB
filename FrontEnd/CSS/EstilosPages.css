@@ -7,10 +7,6 @@ header, footer {
     text-align: center;
 }
 
-nav {
-    text-align: center;
-    opacity: 90%;
-}
 main {
     margin: 0;
     color: #fff;
@@ -30,11 +26,6 @@ body {
 
 hr {
     border: 5px solid red;
-}
-
-.tabla {
-    padding: 20px;
-    margin: 20px;
 }
 
 .carousel-container {

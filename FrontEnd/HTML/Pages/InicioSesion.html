@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="/FrontEnd/CSS/EstilosPages.css"> <!-- Llamar Style deseado -->
     <link rel="website icon" type="image/png" href="/FrontEnd/Images/LogoMangaMania.png"> <!-- Llamar el logo de la página -->
 
-    <script src="/FrontEnd/JavaScript/busquedaManga.js"></script>
+    <script type="module" src="/FrontEnd/JavaScript/login.js"></script>
 </head>
 
 <body> <!-- Cuerpo del código -->
@@ -23,7 +23,6 @@
             <h1>MangaMania - Iniciar Sesion</h1>
         </div>
     </header>
-
     <main> <!-- Código principal o central -->
         <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
             <div class="container-fluid">
@@ -48,22 +47,29 @@
                 </ul>
               </div>
             </div>
-          </nav><br>
-          <div class="container">
-            <form class="d-flex" role="search" id="searchForm">
-              <input class="form-control me-2" type="search" placeholder="Buscar Manga" aria-label="Search" id="searchInput">
-              <button class="btn btn-outline-success" type="submit">Buscar</button>
-            </form>
-            <div id="resultContainer" style="max-height: 150px; overflow-y: auto;"></div>
+          </nav>
+          <!-- Inicio Formulario Inicio Sesion -->
+        <div class="card">
+          <div class="container mt-2">
+              <h2 class="text-center mb-4">Inicio Sesion</h2>
+              <form id="formLogin" class="row g-3">
+                <div class="col-md-12">
+                  <label for="email" class="form-label"><i class="bi bi-envelope-fill"></i> Correo electrónico</label>
+                  <input type="email" class="form-control" id="emaillog" placeholder="ejemplo@correo.com" required>
+                </div>
+                <div class="col-md-12">
+                  <label for="password" class="form-label"><i class="bi bi-lock-fill"></i> Contraseña</label>
+                  <input type="password" class="form-control" id="passwordlog" placeholder="Ingresa una contraseña segura" required>
+                </div>
+                <div class="col-12">
+                  <button type="submit" id="login" class="btn btn-primary w-100">Iniciar Sesion</button>
+                </div>
+                <div class="col-12">
+                  <button type="submit" id="cerrar" class="btn btn-primary w-100">Cerrar Sesion</button>
+                </div>
+              </form>
           </div><br>
-
-          <!-- Agregar card de iniar sesion-->
-
+      </div>
+      <!-- Termino Formulario Inicio Sesion -->
     </main>
-    <footer> <!-- Pie de código -->
-        <div class="container">
-            <h1>MangaMania - Iniciar de Sesion</h1>
-        </div>
-        <script src="/FrontEnd/JavaScript/ses2.js"></script>
-    </footer>
 </html>
