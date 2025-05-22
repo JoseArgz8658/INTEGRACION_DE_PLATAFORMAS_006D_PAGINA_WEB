@@ -29,6 +29,22 @@ formRegister.addEventListener('submit', async (e) => {
   const email = document.getElementById('emailreg').value;
   const password = document.getElementById('passwordreg').value;
 
+  if (!nombre || !apellido || !email || !password) {
+    alert("Todos los campos son obligatorios.");
+    return;
+  }
+
+  const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+  if (!emailRegex.test(email)) {
+    alert("El correo electrónico no es válido.");
+    return;
+  }
+
+  if (password.length < 6) {
+    alert("La contraseña debe tener al menos 6 caracteres.");
+    return;
+  }
+
   try {
     // Crear usuario
     const userCredential = await createUserWithEmailAndPassword(auth, email, password);
