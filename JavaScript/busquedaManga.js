@@ -2,7 +2,7 @@ document.addEventListener('DOMContentLoaded', () => {
   const form = document.getElementById('searchForm');
   const input = document.getElementById('searchInput');
   const resultContainer = document.getElementById('resultContainer');
-  const url = "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/FrontEnd/Json/Mangas.json";
+  const url = "https://raw.githubusercontent.com/JoseArgz8658/INTEGRACION_DE_PLATAFORMAS_006D_PAGINA_WEB/main/Json/Mangas.json";
 
   form.addEventListener('submit', async (e) => {
     e.preventDefault(); // Evita que se recargue la página
