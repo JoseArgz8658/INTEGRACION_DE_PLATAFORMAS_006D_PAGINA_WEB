@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
           const resultHTML = document.createElement('div');
           resultHTML.classList.add('list-group');
           resultHTML.innerHTML = `
-            <a href="/FrontEnd/HTML/Pages/Tomos.html?manga=${encodeURIComponent(manga.titulo)}" class="list-group-item list-group-item-action">${manga.titulo}</a>
+            <a href="/HTML/tomos.html?manga=${encodeURIComponent(manga.titulo)}" class="list-group-item list-group-item-action">${manga.titulo}</a>
           `;
           fragment.appendChild(resultHTML);
         });
